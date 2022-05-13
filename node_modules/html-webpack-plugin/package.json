@@ -59,7 +59,7 @@
     "html-minifier": "^3.2.3",
     "loader-utils": "^0.2.16",
     "lodash": "^4.17.3",
-    "pretty-error": "^2.0.2",
+    "pretty-error": "^4.0.0",
     "toposort": "^1.0.0"
   },
   "peerDependencies": {
